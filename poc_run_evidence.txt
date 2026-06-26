@@ -1,0 +1,12 @@
+=== run 1 ===
+[*] (A) unicode-whitespace bypass: PASS
+[*] (B) dict-key bypass:           PASS
+[*] (C) regex variant enumeration:  PASS
+=== run 2 ===
+[*] (A) unicode-whitespace bypass: PASS
+[*] (B) dict-key bypass:           PASS
+[*] (C) regex variant enumeration:  PASS
+=== run 3 ===
+[*] (A) unicode-whitespace bypass: PASS
+[*] (B) dict-key bypass:           PASS
+[*] (C) regex variant enumeration:  PASS

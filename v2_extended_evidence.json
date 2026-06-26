@@ -1,0 +1,19 @@
+{
+  "V2.1_triple_nesting": {
+    "count_untrusted": 3,
+    "fake_notes_survive": true,
+    "output_keys": [
+      "text",
+      "_untrusted_context"
+    ]
+  },
+  "V2.2_list_nesting": {
+    "count_untrusted": 3,
+    "fake_notes_survive": true
+  },
+  "V2.3_ok_collision": {
+    "entity_ok": false,
+    "root_ok": true,
+    "error_in_body": true
+  }
+}

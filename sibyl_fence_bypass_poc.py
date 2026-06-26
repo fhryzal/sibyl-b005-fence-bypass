@@ -42,8 +42,8 @@ import re
 import sys
 import tempfile
 
-sys.path.insert(0, "sibyl-memory-mcp/src")
-sys.path.insert(0, "sibyl-memory-client/src")
+sys.path.insert(0, "../Sibyl-Memory/sibyl-memory-mcp/src")
+sys.path.insert(0, "../Sibyl-Memory/sibyl-memory-client/src")
 
 import sibyl_memory_mcp.server as server
 from sibyl_memory_client import MemoryClient
